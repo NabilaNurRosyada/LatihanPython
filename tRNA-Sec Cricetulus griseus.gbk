@@ -1,0 +1,49 @@
+LOCUS       AF133045                 695 bp    DNA     linear   ROD 07-JUL-2016
+DEFINITION  Cricetulus griseus tRNA-Sec (tRNA[Ser]Sec) gene, complete sequence.
+ACCESSION   AF133045
+VERSION     AF133045.1
+KEYWORDS    .
+SOURCE      Cricetulus griseus (Chinese hamster)
+  ORGANISM  Cricetulus griseus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Cricetidae; Cricetinae; Cricetulus.
+REFERENCE   1  (bases 1 to 695)
+  AUTHORS   Xu,X.M., Carlson,B.A., Kim,L.K., Lee,B.J., Hatfield,D.L. and
+            Diamond,A.M.
+  TITLE     Analysis of selenocysteine (Sec) tRNA([Ser]Sec) genes in Chinese
+            hamsters
+  JOURNAL   Gene 239 (1), 49-53 (1999)
+   PUBMED   10571033
+REFERENCE   2  (bases 1 to 695)
+  AUTHORS   Xu,X., Carlson,B.A., Kim,L.K., Lee,B.J., Hatfield,D.L. and
+            Diamond,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAR-1999) Section on the Molecular Biology of
+            Selenium, Basic Research Laboratory, Building 37 Room 2D09,
+            National Cancer Institute,National Institutes of Health, 9000
+            Rockville Pike, Bethesda, MD 20892, USA
+FEATURES             Location/Qualifiers
+     source          1..695
+                     /organism="Cricetulus griseus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:10029"
+                     /cell_line="K1"
+                     /cell_type="chinese hamster ovary cells"
+     gene            1..695
+                     /gene="tRNA[Ser]Sec"
+ORIGIN      
+        1 aggcacggta ggcgccgctt cccagcatgc aaggcgctat gcaaatgagg ctacttattg
+       61 taatctagtg ggataattcg cggcatattt gtaaagaaaa gcatgttttc gctaaaacat
+      121 gtgagaagaa tgttgaaaat actagaattg gtcgtgtgtt attaaaaaaa gtagtcacca
+      181 caagtgtaaa aatttctgtt ttttgacctt tatatatgtg tccgaaaata gatacttctg
+      241 cccggatgat ctccagtggt ctggggtgca ggcttcaaac ctgtagctgt ttagcgacag
+      301 agtggttcaa ttccaccttt cgggcgggag tatctatccc attttgcttc ctgcaaccgg
+      361 tactatgtga caaactcctc taaatccccc tctattcgta tttattcctc ttcgtcatta
+      421 cttttttccg gtcccggaag gatccaacac atctcagaag tgtatttaaa tttgtcttct
+      481 acagttctag cgtattcctg tctgtctctg atgtctctcc ttcaacgatt tatttattat
+      541 tcatccagtc atttgctcga ttatgtattt aatcatgcgt gcagctctta gtcatatatt
+      601 tgttcatttg ttcactctgg ctcagtcctg tctctctatt tgagctgtat ggatggggac
+      661 acagttgtga tcacaccctt agccctggtc tcatg
+//
+
